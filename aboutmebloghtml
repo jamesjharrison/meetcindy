@@ -1,0 +1,108 @@
+
+<!DOCTYPE html>
+
+  <head>Cindy Barna</head>
+
+    <title>About Me</title>
+  
+    
+    <link type="text/css" rel="stylesheetblog.css" href="stylesheetblog.
+   </head>
+
+  <body>
+  
+      <nav role="navigation" class="topnav">
+        
+        <ul>
+          <li><a href="#">About Me</a></li>
+          <li><a href="#">Blog</a></li>
+          <li><a href="#">Contact</a></li>
+          <li><a href="#">Locations</a></li>
+          <li><a href="#">FAQ</a></li>
+       </ul> 
+       <!-- need to add sign in to nav? -->
+    </nav>
+<body>
+
+<H2>About Me</H2>
+
+
+<div id="photo of Cindy Family">
+   
+    <a href="http://s1363.photobucket.com/user/cindybarnakw/media/cindy_barnanycfamilygreendress_zps5be84469.jpg.html" target="_blank"><img src="http://i1363.photobucket.com/albums/r712/cindybarnakw/cindy_barnanycfamilygreendress_zps5be84469.jpg" border="0" alt=" photo cindy_barnanycfamilygreendress_zps5be84469.jpg"/></a>
+
+    <a href="http://s1363.photobucket.com/user/cindybarnakw/media/cindy_barnaczechhat_zps7fa9f180.jpg.html" target="_blank"><img src="http://i1363.photobucket.com/albums/r712/cindybarnakw/cindy_barnaczechhat_zps7fa9f180.jpg" border="0" alt=" photo cindy_barnaczechhat_zps7fa9f180.jpg"/></a>
+
+  </div>
+
+<div id="photo of Cindy">
+   
+    <a href="http://s1363.photobucket.com/user/cindybarnakw/media/cindy_barnaarmscrossed_zpsc6b110cb.jpg.html" target="_blank"><img src="http://i1363.photobucket.com/albums/r712/cindybarnakw/cindy_barnaarmscrossed_zpsc6b110cb.jpg" border="0" alt=" photo cindy_barnaarmscrossed_zpsc6b110cb.jpg"/></a>" 
+
+  </div>
+
+<div id="About Me">
+  <p>I am one of the founding members of KW in Summit which qualifies me as a "forward thinker"! I have been an active contributor to my community since I moved to Chatham 20 years ago - these include School PTO, Sports Programs(Soccer,Basketball, Field Hockey, Lax, Softball and Baseball - I've got a family member who has played one or all of them) Theater and local zoning/variance/construction depts. Let me help you find your home in Morris, Union, Essex or Somerset Counties. I have extensive knowledge about many of the train line towns - Milburn, Short Hills, Summit, Chatham, Madison, Morristown, Bernardsville, Berkeley Heights and New Providence. And if you like to run - I'll point you to all the great running trails!!!!!
+  </p>
+
+
+  <p> Welcome to Keller Williams and "My Page".  Here's where I get to tell you about Me.  I've been a full time realtor for 8 years and have consistently been a member of the Million Dollar Club.  I reside in Chatham along with my husband and 3 children.  Chatham has been my home for the past 20 years and both my husband and I have been very active in the community and in the schools.  Past PTO president , fundraiser and home construction expert, I've found a way to combine my people skills and past experiences to help find YOU your next home, or your first home.  A life long NJ resident,  I also am well versed in the towns surrounding Chatham.  Unlike some states, NJ is very compact and thanks to active children whose sports teams have taken me all over the state, I can help you find a home in many towns,  - just to name a few - Chatham, Summit, Madison, Morristown, Morris Twp., Florham Park, Berkeley Heights, New Providence, Short Hills, Millburn, Livingston, Maplewood, Montclair, Westfield, Scotch Plains, Bernardsville, Bernards Twp. and Chester.   I do have a life outside of real estate and that includes a love of NYC (thanks to a daughter who lives there), running, theater, home improvements, soccer, basketball, field hockey, softball, lax (thanks to daughters who play them all) and reading(when I can do that without falling asleep).  This area is a great place to live.  We have excellent schools and great recreation, both for adults and children, easy commute to NYC (mid-town direct), good restaurants and fine dining. 
+  </p>
+  </div>
+  </body>
+
+
+
+
+  <a> href="http://www.facebook.com/ckbarna?fref=ts target="_blank"</a>
+
+
+<!-- Linkedin Acct. -->
+
+ <a> <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+  <script type="IN/MemberProfile" data-id="http://www.linkedin.com/pub/cynthia-barna/30/22/330" data-format="hover" data-text="Cynthia Barna"></script>
+
+</a>
+
+
+  <a href="https://twitter.com//n" target="_blank"> <a href="https://twitter.com/share" class="twitter-share-button" data-via="cynthiabarnakw" data-size="large">Tweet</a>
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+  <a href="https://twitter.com/cynthiabarnakw" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @cynthiabarnakw</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    
+  </a>
+
+  <a href="http://www.youtube.com//channel/UC1VrnG_jHPFswJGbFu0EbCQ" title="Watch Our Video" target="_blank"><img src="http://sueadler.wpengine.netdna-cdn.com/wp-content/themes/barna/images/youtube_32x32.png" alt="Watch Our Video">
+
+  </a>
+
+
+  <a href="http://cindybarna.yourkwagent.com/" target="_blank">
+  ></a> 
+    
+
+  </a>
+
+  </a>
+
+  
+</div>
+
+<!-- sidebar for search and email etc -->
+<table border="0" cellpadding="0" cellspacing="0" class="section-columns columns-2">
+
+<tbody>
+
+<tr>
+<td class="first columns-cell">
+<div class="sidebar section" id="sidebar-right-2-1"><div class="widget CustomSearch" id="CustomSearch1">
+
+<h2 class="title">search</h2>
+
+<div class="widget-content">
+
+<div id="CustomSearch1_form"><form class="gsc-search-box" accept-charset="utf-8"><table cellspacing="0" cellpadding="0" class="gsc-search-box"><tbody><tr><td class="gsc-input"><input autocomplete="off" type="text" size="10" class=" gsc-input" name="search" title="search"></td><td class="gsc-search-button"><input type="submit" value="Search" class="gsc-search-button" title="search"></td></tr></tbody></table><table cellspacing="0" cellpadding="0" class="gsc-branding"><tbody><tr style="display: none;"><td class="gsc-branding-user-defined"></td><td class="gsc-branding-text"><div class="gsc-branding-text">powered by</div></td><td class="gsc-branding-img-noclear"><img src="http://www.google.com/uds/css/small-logo.png" class="gsc-branding-img-noclear"></td></tr></tbody></table></form></div>
+
+</div>
